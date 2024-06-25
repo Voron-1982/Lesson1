@@ -1,0 +1,5 @@
+my_string = input('Я вчера поехал из: ')
+print(len(my_string))
+print(my_string.upper())
+print(my_string.lower())
+print(my_string.replace(' ', ''))
